@@ -1,2 +1,3 @@
 # hello-world
-Another repository 
+Hi, I am KT Gent and I am new to coding and git hub. Well not really new just kind of forgot about it after leaving school and I was never really that good to begin with. So I am just restarting that progress and hopefully I can become a developer in the future.  At the moment I am still figuring out and learning different programming languages but I mainly want to get into mobile app development so I am currently learning Kotlin.
+Hope all is well with anyone who reads this and I hope I will be here for a while to be able to learn and improve and meet some new people along the way. 
